@@ -710,7 +710,7 @@ footer hr{
     }
     .navbar .navbar-nav {
         position: absolute;
-        top: -630%;
+        top: -1000%;
         
         background-color:#fff;
         width: 95%;
