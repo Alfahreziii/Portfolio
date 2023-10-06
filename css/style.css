@@ -813,6 +813,7 @@ footer hr{
 @media (max-width: 450px) {
     html {
         font-size: 55%;
+        width: 140%;
     }
 .about .row .about-img {
     margin-right: 0;
